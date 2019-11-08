@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">GithubSample</string>
+    <string name="click_me">Click Me!</string>
+    <string name="instructions">Clicking the following button should retrieve all issues</string>
+    <string name="result_page_header">You should display the results below</string>
+    <string name="menu_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
