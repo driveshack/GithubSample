@@ -17,6 +17,7 @@ The goal of this application is to retrieve all issues from the **PublicRepo** r
 ### Tips
 - When accessing the api, use the OAuth token provided in `MainActivity.kt`
 - Retrieving Github issues api documentation can be found  [here](https://developer.github.com/v3/issues/)
+- Material Design components can be found [here](https://material.io/components/)
 - We know how excited you are to write test cases for this application, but don't worry about writing them for this exercise
 - You can assume this application is made for only mobile devices
 - You can use any resource you would like to complete this exercise
